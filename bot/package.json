@@ -1,0 +1,12 @@
+{
+    "name": "whos-that-poke-bot",
+    "version": "1.0.0",
+    "description": "Who's That Pokemon Bot",
+    "main": "bot.js",
+    "author": "Sierra Nicholes",
+    "type": "module",
+    "dependencies": {
+        "discord.io": "https://github.com/woor/discord.io/tarball/gateway_v6",
+        "node-fetch": "^3.0.0"
+    }
+}
